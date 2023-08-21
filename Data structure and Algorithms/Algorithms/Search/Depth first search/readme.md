@@ -1,6 +1,6 @@
 # DFS Exercise
 
-![Overview : Employee hierarchy](https://github.com/beladiyadarshan/DFS/blob/main/emp.png?raw=true)
+![Overview : Employee hierarchy](Data structure and Algorithms/Algorithms/Search/Depth first search/emp.png)
 
 Given a graph containing managers and their employees as a dictionary of sets, print all employees reporting to a given manager.
 
